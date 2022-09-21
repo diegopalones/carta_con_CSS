@@ -1,0 +1,52 @@
+h1,
+h2 {
+  font-family: "Merriweather", serif;
+}
+
+body {
+  margin: 20px auto;
+  max-width: 900px;
+}
+a {
+  text-decoration: none;
+  color: #000;
+  border-bottom: 2px solid black;
+  background-color: #8f8585;
+  margin-bottom: 2px;
+}
+
+li {
+  margin-bottom: 15px;
+}
+.adress {
+  text-align:right;
+}
+
+.dates {
+  font-style: italic;
+}
+.university {
+  font-family: "Merriweather", serif;
+  font-size: 14px;
+  font-weight: 600;
+  font-style:italic;
+}
+.topic {
+  font-size: 18px;
+  border: 2px solid rgb(182, 95, 41);
+  padding: 4px;
+  width: 200px;
+}
+.sign {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 800;
+  font-size: 26px;
+}
+.farawell {
+  text-align: center;
+}
+.quot {
+  color: rgb(75, 162, 225);
+  line-height: 80px;
+  font-weight: 800;
+}
